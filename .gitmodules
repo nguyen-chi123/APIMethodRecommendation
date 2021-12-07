@@ -1,0 +1,3 @@
+[submodule "funcverbnet"]
+	path = funcverbnet
+	url = https://github.com/FudanSELab/funcverbnet.git
